@@ -1,0 +1,3 @@
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab№1\SEM2_AlgorithmsLab№1\x64\Debug\SEM2_AlgorithmsLab№1_Library.lib
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab1\x64\Debug\SEM2_AlgorithmsLab№1_Library.lib
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\x64\Debug\SEM2_AlgorithmsLab№1_Library.lib

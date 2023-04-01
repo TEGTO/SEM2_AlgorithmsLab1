@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\x64\Debug\SEM2_AlgorithmsLab№1_Test.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="TestCaseName.TestName" Duration="1" />
+    <TestDuration Test="BPlusTreeTest.Insert_1" Duration="1" />
+    <TestDuration Test="BPlusTree.Insert_1" Duration="1" />
+    <TestDuration Test="BPlusTree.Insert_2" Duration="1" />
+    <TestDuration Test="BPlusTree.Insert_3" Duration="1" />
+    <TestDuration Test="BPlusTree.Insert_4" Duration="1" />
+    <TestDuration Test="BPlusTree.Insert_5" Duration="3" />
+    <TestDuration Test="BPlusTree.Insert_6" Duration="305" />
+    <TestDuration Test="BPlusTree.Includes_1" Duration="1" />
+    <TestDuration Test="BPlusTree.Includes_2" Duration="1" />
+    <TestDuration Test="BPlusTree.Insert_7" Duration="3650" />
+    <TestDuration Test="BPlusTree.Insert_8" Duration="3246" />
+    <TestDuration Test="BPlusTree.Includes_3" Duration="3387" />
+    <TestDuration Test="BPlusTree.Includes_4" Duration="3256" />
+    <TestDuration Test="BPlusTree.optimalSearchTree_2" Duration="1" />
+    <TestDuration Test="BPlusTree.Remove_1" Duration="1" />
+    <TestDuration Test="BPlusTree.optimalSearchTree_1" Duration="1" />
+    <TestDuration Test="BPlusTree.optimalSearchTree_3" Duration="1" />
+    <TestDuration Test="BPlusTree.optimalSearchTree_4" Duration="1" />
+    <TestDuration Test="BPlusTree.optimalSearchTree_5" Duration="1" />
+    <TestDuration Test="BPlusTree.optimalSearchTree_6" Duration="1" />
+    <TestDuration Test="PerfectHash.ContainsTest1_Expect_AllTrue" Duration="41" />
+    <TestDuration Test="OBSTree.optimalSearchTree_1" Duration="1" />
+    <TestDuration Test="OBSTree.optimalSearchTree_2" Duration="1" />
+    <TestDuration Test="OBSTree.optimalSearchTree_3" Duration="1" />
+    <TestDuration Test="OBSTree.optimalSearchTree_4" Duration="1" />
+    <TestDuration Test="OBSTree.optimalSearchTree_5" Duration="1" />
+    <TestDuration Test="OBSTree.optimalSearchTree_6" Duration="1" />
+    <TestDuration Test="PerfectHash.Contains1_Expect_AllTrue" Duration="602" />
+    <TestDuration Test="PerfectHash.Contains2_Expect_AllFalse" Duration="728" />
+    <TestDuration Test="PerfectHash.Contains3_Expect_AllTrue" Duration="574" />
+    <TestDuration Test="PerfectHash.Contains3_Expect_AllFalse" Duration="3" />
+    <TestDuration Test="PerfectHash.Contains4_Expect_AllFalse" Duration="563" />
+    <TestDuration Test="PerfectHash.Contains5_Expect_AllTrue" Duration="12077" />
+    <TestDuration Test="PerfectHash.Contains6_Expect_AllFalse" Duration="16512" />
+    <TestDuration Test="PerfectHash.Initialize1_Expect_Initialized" Duration="616" />
+    <TestDuration Test="PerfectHash.Initialize2_Expect_Initialized" Duration="2497" />
+    <TestDuration Test="PerfectHash.Initialize50000_Expect_Initialized" Duration="586" />
+    <TestDuration Test="PerfectHash.Initialize5000000_Expect_Initialized" Duration="2616" />
+  </TestDurations>
+</GtaTestDurations>

@@ -1,0 +1,158 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (main.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\OBSTree.h(16,20): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\OBSTree.h(83,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\OBSTree.h(91,25): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\PerfectHash.h(26,45): warning C4244: 'argument': conversion from '__int64' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\PerfectHash.h(31,37): warning C4244: 'argument': conversion from '__int64' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\PerfectHash.h(43,41): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\PerfectHash.h(52,33): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(63): warning C4661: 'void BPlusTree<int>::_printStep(std::shared_ptr<BPlusNode<DataType>>,int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              DataType=int
+          ]
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(34): message : see declaration of 'BPlusTree<int>::_printStep'
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(63): warning C4661: 'std::pair<std::shared_ptr<BPlusNode<DataType>>,unsigned int> BPlusTree<DataType>::_subtreeSearch(std::shared_ptr<BPlusNode<DataType>>,const DataType &)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              DataType=int
+          ]
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(36): message : see declaration of 'BPlusTree<int>::_subtreeSearch'
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(63): warning C4661: 'void BPlusTree<int>::_splitNode(std::shared_ptr<BPlusNode<DataType>>)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              DataType=int
+          ]
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(38): message : see declaration of 'BPlusTree<int>::_splitNode'
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(63): warning C4661: 'std::pair<std::shared_ptr<BPlusNode<DataType>>,unsigned int> BPlusTree<DataType>::_subtreeInsert(std::shared_ptr<BPlusNode<DataType>>,const DataType &)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              DataType=int
+          ]
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(40): message : see declaration of 'BPlusTree<int>::_subtreeInsert'
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(63): warning C4661: 'void BPlusTree<int>::_removeFromNode(std::shared_ptr<BPlusNode<DataType>>,unsigned int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              DataType=int
+          ]
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(42): message : see declaration of 'BPlusTree<int>::_removeFromNode'
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(63): warning C4661: 'BPlusTree<int>::BPlusTree(unsigned int)': no suitable definition provided for explicit template instantiation request
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(46): message : see declaration of 'BPlusTree<int>::BPlusTree'
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(63): warning C4661: 'void BPlusTree<int>::Print(void)': no suitable definition provided for explicit template instantiation request
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(49): message : see declaration of 'BPlusTree<int>::Print'
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(63): warning C4661: 'void BPlusTree<int>::PrintSorted(void)': no suitable definition provided for explicit template instantiation request
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(53): message : see declaration of 'BPlusTree<int>::PrintSorted'
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(63): warning C4661: 'std::vector<DataType,std::allocator<DataType>> BPlusTree<DataType>::GetSorted(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              DataType=int
+          ]
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(54): message : see declaration of 'BPlusTree<int>::GetSorted'
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(63): warning C4661: 'bool BPlusTree<int>::Includes(const DataType &)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              DataType=int
+          ]
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(56): message : see declaration of 'BPlusTree<int>::Includes'
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(63): warning C4661: 'void BPlusTree<int>::Insert(const DataType &)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              DataType=int
+          ]
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(58): message : see declaration of 'BPlusTree<int>::Insert'
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(63): warning C4661: 'void BPlusTree<int>::Remove(const DataType &)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              DataType=int
+          ]
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(60): message : see declaration of 'BPlusTree<int>::Remove'
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(64): warning C4661: 'BPlusNode<DataType>::BPlusNode(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              DataType=int
+          ]
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(19): message : see declaration of 'BPlusNode<DataType>::BPlusNode'
+          with
+          [
+              DataType=int
+          ]
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(65): warning C4661: 'void BPlusTree<std::string>::_printStep(std::shared_ptr<BPlusNode<DataType>>,int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              DataType=std::string
+          ]
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(34): message : see declaration of 'BPlusTree<std::string>::_printStep'
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(65): warning C4661: 'std::pair<std::shared_ptr<BPlusNode<DataType>>,unsigned int> BPlusTree<DataType>::_subtreeSearch(std::shared_ptr<BPlusNode<DataType>>,const DataType &)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              DataType=std::string
+          ]
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(36): message : see declaration of 'BPlusTree<std::string>::_subtreeSearch'
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(65): warning C4661: 'void BPlusTree<std::string>::_splitNode(std::shared_ptr<BPlusNode<DataType>>)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              DataType=std::string
+          ]
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(38): message : see declaration of 'BPlusTree<std::string>::_splitNode'
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(65): warning C4661: 'std::pair<std::shared_ptr<BPlusNode<DataType>>,unsigned int> BPlusTree<DataType>::_subtreeInsert(std::shared_ptr<BPlusNode<DataType>>,const DataType &)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              DataType=std::string
+          ]
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(40): message : see declaration of 'BPlusTree<std::string>::_subtreeInsert'
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(65): warning C4661: 'void BPlusTree<std::string>::_removeFromNode(std::shared_ptr<BPlusNode<DataType>>,unsigned int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              DataType=std::string
+          ]
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(42): message : see declaration of 'BPlusTree<std::string>::_removeFromNode'
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(65): warning C4661: 'BPlusTree<std::string>::BPlusTree(unsigned int)': no suitable definition provided for explicit template instantiation request
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(46): message : see declaration of 'BPlusTree<std::string>::BPlusTree'
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(65): warning C4661: 'void BPlusTree<std::string>::Print(void)': no suitable definition provided for explicit template instantiation request
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(49): message : see declaration of 'BPlusTree<std::string>::Print'
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(65): warning C4661: 'void BPlusTree<std::string>::PrintSorted(void)': no suitable definition provided for explicit template instantiation request
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(53): message : see declaration of 'BPlusTree<std::string>::PrintSorted'
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(65): warning C4661: 'std::vector<DataType,std::allocator<DataType>> BPlusTree<DataType>::GetSorted(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              DataType=std::string
+          ]
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(54): message : see declaration of 'BPlusTree<std::string>::GetSorted'
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(65): warning C4661: 'bool BPlusTree<std::string>::Includes(const DataType &)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              DataType=std::string
+          ]
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(56): message : see declaration of 'BPlusTree<std::string>::Includes'
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(65): warning C4661: 'void BPlusTree<std::string>::Insert(const DataType &)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              DataType=std::string
+          ]
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(58): message : see declaration of 'BPlusTree<std::string>::Insert'
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(65): warning C4661: 'void BPlusTree<std::string>::Remove(const DataType &)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              DataType=std::string
+          ]
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(60): message : see declaration of 'BPlusTree<std::string>::Remove'
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(66): warning C4661: 'BPlusNode<DataType>::BPlusNode(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              DataType=std::string
+          ]
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\BPlusTree.h(19): message : see declaration of 'BPlusNode<DataType>::BPlusNode'
+          with
+          [
+              DataType=std::string
+          ]
+  main.vcxproj -> D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1\x64\Debug\SEM2_AlgorithmsLab№1_Exe.exe

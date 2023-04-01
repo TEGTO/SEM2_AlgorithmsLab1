@@ -1,0 +1,2 @@
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab№1\SEM2_AlgorithmsLab№1_TEST\x64\Debug\SEM2_AlgorithmsLab№1_TEST.vcxproj.CopyComplete
+D:\Studies\Course_2\Semester 2\Algorithms\SEM2_AlgorithmsLab1\SEM2_AlgorithmsLab№1_TEST\x64\Debug\SEM2_AlgorithmsLab№1_TEST.vcxproj.CopyComplete
